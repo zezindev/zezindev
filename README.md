@@ -1,9 +1,10 @@
 ### Hello There! I'm José Lucas aka Zé
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/zezindev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezindev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezindev&layout=compact&langs_count=16&theme=great-gatsby"/>
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,5 +26,5 @@
   <a href="https://www.linkedin.com/in/josé-lucas-rodrigues-126981225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/zezindev/zezindev/blob/output/github-contribution-grid-snake.svg)
- 
+   ![Anurag's GitHub Repo Cards](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 </div>
