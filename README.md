@@ -28,4 +28,4 @@
   ![Snake animation](https://github.com/zezindev/zezindev/blob/output/github-contribution-grid-snake.svg)
    
 </div>
-![Anurag's GitHub cards](https://github-readme-cards.vercel.app/api?username=zezindev&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zezindev&theme=great-gatsby&show_icons=true)
