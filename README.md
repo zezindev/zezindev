@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/josé-lucas-rodrigues-126981225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/zezindev/zezindev/blob/output/github-contribution-grid-snake.svg)
-  ![great-gatsby_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=great-gatsby)
    
 </div>
 
