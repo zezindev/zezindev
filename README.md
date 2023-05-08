@@ -3,8 +3,8 @@
  <div>
   <a href="https://github.com/zezindev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zezindev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezindev&layout=compact&langs_count=16&theme=great-gatsby"/>,
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zezindev&theme=great-gatsby&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezindev&layout=compact&langs_count=16&theme=great-gatsby"/>
+   <img src="(https://github-readme-stats.vercel.app/api?username=zezindev&theme=great-gatsby&show_icons=true)"/>
    
 </div>
 <div style="display: inline_block"><br>
